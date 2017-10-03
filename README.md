@@ -1,4 +1,6 @@
 # systemic-express
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/guidesmiths/systemic-express.svg)](https://greenkeeper.io/)
 A [systemic](https://github.com/guidesmiths/systemic) express component
 
 ## Usage
