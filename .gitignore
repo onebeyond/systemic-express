@@ -1,2 +1,11 @@
+# Common files
 node_modules
 *.log
+
+# IDE folder
+.idea
+
+# Test reports
+test-results.xml
+coverage
+.nyc_output
