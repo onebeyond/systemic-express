@@ -22,7 +22,7 @@ describe('app', () => {
         });
     });
 
-    it('should fail creating app successfully if dependencies are not present', () => {
+    it('should fail creating app if dependencies are not present', () => {
         try {
             app.start(undefined, (err, appCreated) => {
                 if(!err){
