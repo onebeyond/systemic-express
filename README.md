@@ -61,7 +61,6 @@ new System()
 
 This component makes easier to set up the express server that will expose your application. It accepts the same options as the [listen](https://expressjs.com/en/4x/api.html#app.listen) method: 
 
-## Usage
 ```js
 const System = require('systemic')
 const server = require('systemic-express').server
