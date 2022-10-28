@@ -140,7 +140,7 @@ This application makes use of the following open source packages:
 | mime-db | 1.52.0 | MIT | https://github.com/jshttp/mime-db |
 | mime-types | 2.1.35 | MIT | https://github.com/jshttp/mime-types |
 | mime | 1.6.0 | MIT | https://github.com/broofa/node-mime |
-| minimatch | 3.0.4 | ISC | https://github.com/isaacs/minimatch |
+| minimatch | 3.1.2 | ISC | https://github.com/isaacs/minimatch |
 | minimist | 1.2.7 | MIT | https://github.com/minimistjs/minimist |
 | mkdirp | 0.5.6 | MIT | https://github.com/substack/node-mkdirp |
 | ms | 2.0.0 | MIT | https://github.com/zeit/ms |
