@@ -12,7 +12,8 @@
     "lint": "npm run eslint",
     "deps:check": "npx @guidesmiths/license-checker --failOn /GPL/ --outputFileName COPYRIGHT",
     "prepush": "npm run deps:check",
-    "postinstall": "npm run deps:check"
+    "postinstall": "npm run deps:check",
+    "prepare": "husky install"
   },
   "author": "GuideSmiths",
   "license": "ISC",
@@ -46,6 +47,7 @@
   "snyk": true,
   "devDependencies": {
     "eslint": "7.32.0",
+    "husky": "^8.0.1",
     "systemic": "^4.1.2"
   }
 }
