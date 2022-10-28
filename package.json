@@ -9,11 +9,15 @@
     "prepublish": "npm run snyk-protect",
     "eslint": "eslint . --ext .js --config .eslintrc.json --ignore-path .eslintignore --cache",
     "eslint:fix": "eslint . --ext .js --fix",
-    "lint": "npm run eslint"
+    "lint": "npm run eslint",
+    "deps:check": "npx @guidesmiths/license-checker --failOn /GPL/ --outputFileName COPYRIGHT",
+    "prepush": "npm run deps:check",
+    "postinstall": "npm run deps:check"
   },
   "author": "GuideSmiths",
   "license": "ISC",
   "dependencies": {
+    "@guidesmiths/license-checker": "^2.0.1",
     "@hapi/boom": "^10.0.0",
     "async": "^3.2.4",
     "debug": "^4.3.4",
