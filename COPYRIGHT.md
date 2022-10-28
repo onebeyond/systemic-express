@@ -11,6 +11,7 @@ This application makes use of the following open source packages:
 | @hapi/hoek | 10.0.1 | BSD-3-Clause | https://github.com/hapijs/hoek |
 | @humanwhocodes/config-array | 0.5.0 | Apache-2.0 | https://github.com/humanwhocodes/config-array |
 | @humanwhocodes/object-schema | 1.2.0 | BSD-3-Clause | https://github.com/humanwhocodes/object-schema |
+| @snyk/protect | 1.1044.0 | Apache-2.0 | https://github.com/snyk/snyk |
 | abbrev | 1.1.1 | ISC | https://github.com/isaacs/abbrev-js |
 | accepts | 1.3.8 | MIT | https://github.com/jshttp/accepts |
 | acorn-jsx | 5.3.2 | MIT | https://github.com/acornjs/acorn-jsx |
@@ -102,6 +103,7 @@ This application makes use of the following open source packages:
 | has | 1.0.3 | MIT | https://github.com/tarruda/has |
 | hosted-git-info | 2.8.9 | ISC | https://github.com/npm/hosted-git-info |
 | http-errors | 2.0.0 | MIT | https://github.com/jshttp/http-errors |
+| husky | 8.0.1 | MIT | https://github.com/typicode/husky |
 | iconv-lite | 0.4.24 | MIT | https://github.com/ashtuchkin/iconv-lite |
 | ignore | 4.0.6 | MIT | https://github.com/kaelzhang/node-ignore |
 | import-fresh | 3.3.0 | MIT | https://github.com/sindresorhus/import-fresh |
@@ -193,7 +195,6 @@ This application makes use of the following open source packages:
 | side-channel | 1.0.4 | MIT | https://github.com/ljharb/side-channel |
 | slice-ansi | 4.0.0 | MIT | https://github.com/chalk/slice-ansi |
 | slide | 1.1.6 | ISC | https://github.com/isaacs/slide-flow-control |
-| snyk | 1.986.0 | Apache-2.0 | https://github.com/snyk/snyk |
 | spdx-compare | 1.0.0 | MIT | https://github.com/kemitchell/spdx-compare.js |
 | spdx-correct | 3.1.1 | Apache-2.0 | https://github.com/jslicense/spdx-correct.js |
 | spdx-exceptions | 2.3.0 | CC-BY-3.0 | https://github.com/kemitchell/spdx-exceptions.json |
