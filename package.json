@@ -16,7 +16,7 @@
     "prepare": "husky install"
   },
   "author": "GuideSmiths",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@guidesmiths/license-checker": "^2.0.1",
     "@hapi/boom": "^10.0.0",
