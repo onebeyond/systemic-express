@@ -2,7 +2,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/d49bb1ffdcb679b6fe37/test_coverage)](https://codeclimate.com/github/onebeyond/systemic-express/test_coverage)
 
 # systemic-express
-A [systemic](https://github.com/guidesmiths/systemic) set of components for making easier setting up systemic-based express applications. These components are:
+A [systemic](https://github.com/onebeyond/systemic) set of components for making easier setting up systemic-based express applications. These components are:
 
 - [app](lib/app.js)
 - [default-middleware](lib/default-middleware.js)
