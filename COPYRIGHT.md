@@ -217,7 +217,7 @@ This application makes use of the following open source packages:
 | supports-color | 5.5.0 | MIT | https://github.com/chalk/supports-color |
 | supports-color | 7.2.0 | MIT | https://github.com/chalk/supports-color |
 | supports-preserve-symlinks-flag | 1.0.0 | MIT | https://github.com/inspect-js/node-supports-preserve-symlinks-flag |
-| systemic-express | 1.1.5 | MIT | https://github.com/guidesmiths/systemic-express |
+| systemic-express | 1.2.0 | MIT | https://github.com/onebeyond/systemic-express |
 | systemic | 4.1.2 | ISC | https://github.com/guidesmiths/systemic |
 | table | 6.7.2 | BSD-3-Clause | https://github.com/gajus/table |
 | text-table | 0.2.0 | MIT | https://github.com/substack/text-table |
